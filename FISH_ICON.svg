@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="FISH_ICON_V2.svg"
+   sodipodi:docname="FISH_ICON.svg"
    inkscape:export-filename="C:\Users\lon\Pictures\dumb stuff i did in quarantine\FISH_ICON_BG.png"
    inkscape:export-xdpi="31.741705"
    inkscape:export-ydpi="31.741705">
@@ -294,7 +294,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-137.27344"
+     inkscape:cx="-390.27344"
      inkscape:cy="508.52986"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
@@ -351,12 +351,12 @@
      inkscape:label="wavesbackgroundv2"
      style="display:inline">
     <rect
-       style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#f800ff;stroke-width:0.23034789;stroke-opacity:0"
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#f800ff;stroke-width:0.23756354;stroke-opacity:0"
        id="rect1272"
-       width="279.43423"
-       height="277.31754"
-       x="-3.7212849"
-       y="0.51205027"
+       width="288.952"
+       height="285.24783"
+       x="-4.2468438"
+       y="-7.4218421"
        inkscape:label="backgroundcolor"
        inkscape:export-xdpi="31.741705"
        inkscape:export-ydpi="31.741705" />
@@ -375,8 +375,8 @@
        id="rect1076"
        width="276.89124"
        height="275.76871"
-       x="-1.8708867"
-       y="-1.0935904"
+       x="0.77494556"
+       y="-0.035256956"
        inkscape:label="waves"
        inkscape:export-xdpi="31.741705"
        inkscape:export-ydpi="31.741705" />
