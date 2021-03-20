@@ -641,19 +641,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="409.22076"
-     inkscape:cy="540.74713"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="950.37709"
+     inkscape:cy="839.32516"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      showguides="true"
      inkscape:snap-global="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-y="73"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -677,12 +677,12 @@
      inkscape:label="wavesbackgroundv1"
      style="display:none">
     <rect
-       style="fill:#00aff7;fill-opacity:1;stroke:#f800ff;stroke-width:0.26458332;stroke-opacity:1"
+       style="fill:#00aff7;fill-opacity:1;stroke:#f800ff;stroke-width:0.25564265;stroke-opacity:1"
        id="rect1073"
-       width="296.34845"
-       height="294.47757"
-       x="-5.9868374"
-       y="-5.2095408"
+       width="285.82401"
+       height="285.03488"
+       x="-3.3252943"
+       y="-2.1270483"
        inkscape:label="backgroundcolor" />
     <rect
        style="fill:#e0fafa;fill-opacity:1;stroke:#f800ff;stroke-width:0.26458332;stroke-opacity:1;filter:url(#filter1071)"
@@ -719,7 +719,7 @@
        inkscape:export-xdpi="31.741705"
        inkscape:export-ydpi="31.741705" />
     <rect
-       style="opacity:0.98999999;fill:#51c9fb;fill-opacity:1;stroke:#f800ff;stroke-width:0.26458332;stroke-opacity:0;filter:url(#filter1196)"
+       style="display:inline;opacity:0.98999999;fill:#51c9fb;fill-opacity:1;stroke:#f800ff;stroke-width:0.26458332;stroke-opacity:0;filter:url(#filter1196)"
        id="rect1076"
        width="276.89124"
        height="275.76871"
@@ -727,7 +727,9 @@
        y="-0.035256956"
        inkscape:label="waves"
        inkscape:export-xdpi="31.741705"
-       inkscape:export-ydpi="31.741705" />
+       inkscape:export-ydpi="31.741705"
+       transform="matrix(1.0084351,0,0,0.98794416,-2.7438282,-0.12405194)"
+       inkscape:export-filename="C:\Users\lon\.babun\cygwin\home\lon\Development\fish-icon\samples\FISH_ICON_BG_ALT.png" />
   </g>
   <g
      inkscape:groupmode="layer"
