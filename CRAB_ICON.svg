@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="CRAB_ICON.svg">
+   sodipodi:docname="CRAB_ICON.svg"
+   inkscape:export-filename="C:\Users\lon\.babun\cygwin\home\lon\Development\fish-icon\samples\CRAB_ICON_BG_SAND.png"
+   inkscape:export-xdpi="31.741699"
+   inkscape:export-ydpi="31.741699">
   <defs
      id="defs2">
     <linearGradient
@@ -504,6 +507,87 @@
        x2="169.33333"
        y2="159.80833"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Bubbly Bumps"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Flexible bubbles effect with some displacement"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1352">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="0.5"
+         id="feGaussianBlur1326" />
+      <feTurbulence
+         baseFrequency="0.2"
+         seed="300"
+         numOctaves="10"
+         result="result1"
+         type="fractalNoise"
+         id="feTurbulence1328" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result8"
+         id="feGaussianBlur1330" />
+      <feDisplacementMap
+         result="result7"
+         in2="result8"
+         scale="5"
+         in="result0"
+         xChannelSelector="R"
+         id="feDisplacementMap1332" />
+      <feComposite
+         result="result2"
+         operator="in"
+         in2="result1"
+         in="result7"
+         id="feComposite1334" />
+      <feComposite
+         k3="3"
+         in2="result2"
+         in="result0"
+         operator="arithmetic"
+         id="feComposite1336" />
+      <feBlend
+         result="fbSourceGraphic"
+         mode="multiply"
+         in2="result2"
+         id="feBlend1338" />
+      <feColorMatrix
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -1.8 -0.5 0 5.7 -3.5 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix1340" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur1342" />
+      <feSpecularLighting
+         result="result6"
+         surfaceScale="5"
+         specularExponent="3"
+         id="feSpecularLighting1346">
+        <feDistantLight
+           azimuth="225"
+           elevation="10"
+           id="feDistantLight1344" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphicAlpha"
+         in="result6"
+         result="result2"
+         operator="in"
+         id="feComposite1348" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="0.7"
+         in2="result2"
+         id="feComposite1350" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -513,8 +597,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="248.82894"
-     inkscape:cy="526.50153"
+     inkscape:cx="279.31323"
+     inkscape:cy="680.81439"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
@@ -545,6 +629,15 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="display:none;fill:#fffaa0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;filter:url(#filter1352)"
+     id="rect1082-5"
+     width="271.19791"
+     height="270.93329"
+     x="0"
+     y="0"
+     inkscape:label="sand"
+     transform="matrix(0.98481104,0,0,0.98592294,2.0284816,2.5133042)" />
   <rect
      style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
      id="rect1082"
